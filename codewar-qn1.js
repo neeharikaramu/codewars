@@ -10,3 +10,5 @@ function solution(str){
   }
 
   // with methods:- return str.split('').reverse().join('');
+
+  console.log(solution('reverse'));
