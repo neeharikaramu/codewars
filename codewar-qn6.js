@@ -5,7 +5,7 @@
 // E: if bool= true function returns string 'yes'
 // P:  
 
-function boolToWord( bool ){
+function boolToWord(bool){
     return result = (bool===true) ? 'Yes' : 'No';
   }
 
