@@ -1,5 +1,5 @@
 // Complete the solution so that it reverses the string passed into it.
-
+//with loops
 function solution(str){
     let rev='';
     let num=str.length-1;
