@@ -11,5 +11,3 @@
 
        console.log(filter_list(['a','b',0,1,2])); //const filter_list = array => array.filter(a => typeof(a)==='number').filter(a => a >= 0) for non negative numbers
 
-
-    //    List Filtering. My first 7kyu!
