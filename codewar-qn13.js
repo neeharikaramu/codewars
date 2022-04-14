@@ -20,4 +20,3 @@ function hero(bullets, dragons){
     console.log(hero(12,8));
     console.log(hero(12,4));
 
-    // Is he gonna survive?
